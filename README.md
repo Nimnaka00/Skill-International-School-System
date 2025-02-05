@@ -10,10 +10,10 @@ A **C# .NET-based** school management system where **admins** can log in and reg
 
 ## Screenshots
 ### Login UI
-![Login UI](screenshots/login.png)
+![Login UI](./ss/Picture1.png)
 
 ### Registration UI
-![Registration UI](screenshots/registration.png)
+![Registration UI](./ss/Picture2.png)
 
 ## Installation Guide
 ### Prerequisites
