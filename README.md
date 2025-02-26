@@ -44,7 +44,7 @@ Ensure your system has the following installed:
    - The system will open in your browser or as a Windows application
 
 ## Technologies Used
-- **C# .NET (WinForms / ASP.NET Core)**
+- **C# .NET**
 - **SQL Server**
 - **Entity Framework**
 - **Visual Studio**
